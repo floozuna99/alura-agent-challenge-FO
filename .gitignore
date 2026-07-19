@@ -1,0 +1,14 @@
+# Variables de entorno / secretos
+.env
+
+# Índice vectorial generado (se regenera con ingest.py)
+data/faiss_index/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
