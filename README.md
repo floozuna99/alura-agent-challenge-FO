@@ -127,8 +127,7 @@ Estas son respuestas reales generadas por el agente, ejecutado en Google Colab:
 
 ## ☁️ Deploy en Oracle Cloud Infrastructure (OCI)
 
-> _Pendiente — se agregará el enlace público y/o captura de pantalla de la
-> aplicación corriendo en OCI una vez completado el despliegue._
+**🔗 Aplicación en producción:** http://163.176.139.45:8080
 
 **Resumen del proceso de deploy:**
 1. Creación de una instancia Compute (VM.Standard.E2.1.Micro — free tier).
@@ -143,8 +142,8 @@ Estas son respuestas reales generadas por el agente, ejecutado en Google Colab:
 
 - [x] Etapa 1: Lectura y procesamiento del documento
 - [x] Etapa 2: Agente de IA respondiendo preguntas
-- [ ] Etapa 3: Deploy en OCI
-- [ ] README completo con evidencias
+- [x] Etapa 3: Deploy en OCI
+- [x] README completo con evidencias
 
 ---
 
