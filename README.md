@@ -1,4 +1,4 @@
-# 🤖 Agente Alura — Challenge Cloud Computing
+# 🤖 Agente Alura | Challenge Cloud Computing
 
 Agente de inteligencia artificial capaz de responder preguntas en lenguaje natural
 sobre un documento PDF, utilizando una arquitectura RAG (Retrieval-Augmented
